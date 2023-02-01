@@ -1,0 +1,121 @@
+recvTime,fiwareServicePath,entityId,entityType,attrName,attrType,attrValue
+2023-01-25T08:55:15.701Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-25T08:55:15.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-25T09:06:28.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-25T11:33:59.701Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-25T11:33:59.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-25T11:46:29.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-25T13:57:19.701Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-25T13:57:19.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-25T14:08:08.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-25T16:18:20.701Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-25T16:18:20.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-25T16:32:34.701Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-26T08:55:44.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-26T08:55:44.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-26T09:07:10.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-26T11:38:01.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-26T11:38:01.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-26T11:52:28.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-26T14:26:11.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-26T14:26:11.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-26T14:33:42.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-26T17:00:03.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-26T17:00:03.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-26T17:11:29.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-26T20:00:45.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-26T20:00:45.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-26T20:12:20.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-26T22:46:58.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-26T22:46:58.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-26T22:55:18.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T01:15:19.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T01:15:19.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T01:29:08.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T03:44:47.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T03:44:47.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T03:57:14.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T06:26:20.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T06:26:20.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T06:34:48.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T09:05:23.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T09:05:23.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T09:12:54.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T11:19:15.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T11:19:15.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T11:33:02.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T13:56:31.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T13:56:31.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T14:11:03.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T16:16:27.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T16:16:27.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T16:31:04.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T18:54:47.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T18:54:47.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T19:05:13.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-27T21:24:38.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-27T21:24:38.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-27T21:32:17.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T00:02:23.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T00:02:23.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T00:10:54.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T02:40:42.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T02:40:42.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T02:55:01.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T05:14:10.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T05:14:10.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T05:23:41.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T07:45:57.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T07:45:57.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T07:55:21.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T10:07:25.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T10:07:25.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T10:20:56.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T12:52:11.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T12:52:11.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T13:04:44.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T15:19:12.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T15:19:12.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T15:26:32.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T17:51:33.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T17:51:33.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T18:01:20.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T20:22:32.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T20:22:32.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T20:32:03.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-28T22:59:36.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-28T22:59:36.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-28T23:12:03.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T01:41:25.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T01:41:25.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T01:49:48.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T04:03:55.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T04:03:55.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T04:13:37.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T06:36:44.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T06:36:44.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T06:46:19.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T09:10:35.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T09:10:35.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T09:17:49.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T11:35:10.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T11:35:10.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T11:44:43.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T13:59:12.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T13:59:12.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T14:12:49.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T16:36:28.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T16:36:28.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T16:50:59.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T19:14:04.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T19:14:04.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T19:27:52.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-29T21:57:51.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-29T21:57:51.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-29T22:11:20.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-30T00:38:56.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-30T00:38:56.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-30T00:49:15.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
+2023-01-30T03:06:26.704Z,/,urn:ngsi-ld:Axis:003,IOT,start,Text,
+2023-01-30T03:06:26.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Cutting 2
+2023-01-30T03:16:08.704Z,/,urn:ngsi-ld:Axis:003,IOT,Status,Text,Finished
